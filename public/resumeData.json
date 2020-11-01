@@ -7,20 +7,20 @@
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "usmankiani88.uk@gmail.com",
     "phone": "03438527885",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/UsmanTahirKiani",
+    "project":"https://github.com/UsmanTahirKiani",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"32",
+      "city":"Islamabad",
+      "state":"Islamabad",
+      "zip": "44000"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://facebook.com/UsmanTahirKiani",
         "className":"fa fa-facebook"
       },
       {
