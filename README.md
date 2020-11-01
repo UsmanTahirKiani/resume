@@ -1,4 +1,4 @@
-# React Nice Resume     
+# React Nice Resume    https://usmantahirkiani.github.io/resume/ 
 
 ### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
