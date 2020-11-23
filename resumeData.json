@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Usman Tahir",
-    "description":"To join an interactive organization that offers me a constructive workplace where I can apply concepts I learned and gain practical exposure by enhancing and using my creative skills.",
+    "description":"To join an interactive organization that offers me a constructive workplace where I can apply concepts I learned and gain practical exposure by enhancing and using my creative skills",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"Passionate Data Scientist and Web developer",
+    "contactmessage":"",
     "email": "usmankiani88.uk@gmail.com",
     "phone": "03438527885",
     "github":"https://github.com/UsmanTahirKiani",
@@ -30,49 +30,77 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/usmantahirkiani",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Ability to quickly create and apply ideas and solutions and great at problem solving",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"MS SCHOLAR (18 Years)",
+        "degree":"Master of Science in Data Science 3rd Semester (CGPA: 3.44)",
+        "graduated":"2021",
+        "description":"Air University Islamabad"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"MASTER’s DEGREE (16 Years)",
+        "degree":"Master of Computer Science (MCS) (CGPA: 3.91)",
+        "graduated":"2018",
+        "description":"PMAS Arid Agriculture University"
+      }
+      ,
+      {
+        "school":"BACHELOR DEGREE (14 Years)",
+        "degree":"Bachelor of Computer Science (BCS)",
+        "graduated":"2016",
+        "description":"Quaid-e-Azam University"
+      }
+      ,
+      {
+        "school":"HIGHER SECONDARY DEGREE",
+        "degree":"FSC",
+        "graduated":"2013",
+        "description":"F.B.I.S.E"
+      }
+      ,
+      {
+        "school":"SECONDARY DEGREE",
+        "degree":"Matric",
+        "graduated":"2011",
+        "description":"F.B.I.S.E"
+      }
+      ,
+      {
+        "school":"Diploma",
+        "degree":"6 months Diploma in Computer Software",
+        "graduated":"2014",
+        "description":"National Institiute of Science and Technical Education"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"PBC Headquarter Islamabad",
+        "title":"IT PERSON",
+        "years":"2017 to 2020",
+        "description":"Managing social media accounts of Radio Pakistan Including Twitter, Facebook, YouTube and Instagram. Live video streaming of news. Graphic designing (posters, banners and news cards) Reports and presentations"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Home Health Care Consultant",
+        "title":"BILLING ADMIN",
+        "years":"2016 to 2017",
+        "description":"Medical Billing & Remittance Reconciliation Audit of Payroll, Taxes & Accounting Account Reconciliation Developing Profit & Loss Reports"
       }
     ],
     "skills":[
@@ -81,62 +109,44 @@
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":".NET",
+        "level":"60%"
       },
       {
-        "name":"ReactJs",
+        "name":"React",
         "level":"50%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"C#",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"FBR",
+        "category":"Dashboard",
+        "image":"fbr.gif",
+        "url":"#"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Track Logs",
+        "category":"Track Logs",
+        "image":"tracklogs.gif",
+        "url":"#"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"News Website",
+        "category":"News Website",
+        "image":"news1.jpg",
+        "url":"http://www.behreablagh.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"News Website",
+        "category":"News Website",
+        "image":"news2.jpg",
+        "url":"http://www.khanewalnews.com"
       }
     ]
   }
