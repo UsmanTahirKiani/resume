@@ -15,8 +15,8 @@
       "state":"Islamabad",
       "zip": "44000"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://usmantahirkiani.github.io/resume/",
+    "resumedownload":"https://usmantahirkiani.github.io/resume/resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -128,13 +128,13 @@
         "title":"FBR",
         "category":"Dashboard",
         "image":"fbr.gif",
-        "url":"#"
+        "url":"https://usmantahirkiani.github.io/resume/images/portfolio/fbr.gif"
       },
       {
         "title":"Track Logs",
         "category":"Track Logs",
         "image":"tracklogs.gif",
-        "url":"#"
+        "url":"https://usmantahirkiani.github.io/resume/images/portfolio/tracklogs.gif"
       },
       {
         "title":"News Website",
